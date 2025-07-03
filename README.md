@@ -15,3 +15,4 @@ This deep learning-based project detects the fruit type, estimates its ripeness 
 - Flask (for web interface)  
 - HTML, CSS, JavaScript  
 
+*** DATASET  from kaggle***
